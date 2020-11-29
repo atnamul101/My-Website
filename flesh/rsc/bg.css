@@ -1,0 +1,8 @@
+body {
+  background-image: url("bg.gif");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+table, th, td {
+  background-color: rgba(128, 128, 128, 0.3);
+}

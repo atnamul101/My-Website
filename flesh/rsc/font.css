@@ -1,0 +1,28 @@
+@font-face {
+   font-family: arista;
+   src: url(arista.ttf);
+}
+
+* {
+   font-family: arista;
+}
+
+.left {  float: left;
+        position: fixed;
+		bottom: 1px; }
+
+.left2 {  float: left;
+        position: fixed;
+		bottom: 1px;
+		left: 50px;  }
+		
+.left3 {  float: left;
+        position: fixed;
+		bottom: 1px;
+		left: 100px;  }
+		
+.tbottomleft {
+  position: relative;
+  bottom: 0px;
+  left: 10px;
+}
